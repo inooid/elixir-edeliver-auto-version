@@ -1,0 +1,9 @@
+APP="edeliver_test"
+
+BUILD_HOST="local-docker"
+BUILD_USER="root"
+BUILD_AT="/tmp/edeliver/edeliver_test/builds"
+
+STAGING_HOSTS="stage.myapp.com"
+STAGING_USER="web"
+DELIVER_TO="/home/web"
